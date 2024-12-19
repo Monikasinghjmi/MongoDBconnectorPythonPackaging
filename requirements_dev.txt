@@ -7,6 +7,7 @@ ensure
 
 
 # dev requirements -
+setuptools>=42.0
 
 pytest==7.1.3
 tox
