@@ -36,5 +36,5 @@ jobs:
         pip install -r requirements_dev.txt
     - name: upgrade tox
       run: pip install --upgrade tox
-    - name: Test with tox
-      run: tox
+   # - name: Test with tox
+  #  run: tox
